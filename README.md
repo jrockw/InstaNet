@@ -3,7 +3,8 @@ An experiment into scraping instagram to build a facial recognition network trai
 
 Here's an example of the image parsing that takes place in the InstaNet process. 
 
-Before: 
+##### Before: 
 ![Prior](https://raw.githubusercontent.com/jrockw/FaceNet/master/test.jpg)
-After:
+
+##### After:
 ![Post](https://raw.githubusercontent.com/jrockw/FaceNet/master/RESULT.png)
