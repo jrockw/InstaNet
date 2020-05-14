@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mtcnn = "*"
+torch = "*"
+torchvision = "*"
+scipy = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+facenet-pytorch = "*"
+instaloader = "*"
+tensorflow = "*"
+
+[requires]
+python_version = "3.7"
